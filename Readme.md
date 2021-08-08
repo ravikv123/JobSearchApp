@@ -32,5 +32,8 @@ Sort by nearest distance
 ## logging
 logging is not implemented for the functionality
 
+## Unit test cases
+Unit test cases were not implemented for the functionality
+
 ## Test Case
 [TestScenarios](docs/testCases.docx)
